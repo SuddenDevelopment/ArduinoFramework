@@ -1,4 +1,5 @@
 # ArduinoFramework
+This was done on ESP32 , all principles can be the same but the libraries would be different on another device
 my evolving framework to work with Arduino code. configure by JSON on an SD card, log, act, react, connect etc. The one uncommon thing this assumes is an SD card, could be an API call to get config too though, that would be pretty cool.
 
 # Goal
